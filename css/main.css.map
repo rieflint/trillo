@@ -1,0 +1,30 @@
+{
+    "version": 3,
+    "mappings": "AAAA;;;;;;;;;;;;;;;;EAgBE",
+    "sources": [
+        "../SASS/main.scss",
+        "../SASS/0-Tools/_functions.scss",
+        "../SASS/0-Tools/_mixins.scss",
+        "../SASS/0-Tools/_variables.scss",
+        "../SASS/1-Base/_reset.scss",
+        "../SASS/1-Base/_typography.scss",
+        "../SASS/2-Modules/_buttons.scss",
+        "../SASS/2-Modules/_carousel.scss",
+        "../SASS/2-Modules/_slider.scss",
+        "../SASS/3-Layout/_footer.scss",
+        "../SASS/3-Layout/_forms.scss",
+        "../SASS/3-Layout/_grid.scss",
+        "../SASS/3-Layout/_header.scss",
+        "../SASS/3-Layout/_navigation.scss",
+        "../SASS/3-Layout/_sidebar.scss",
+        "../SASS/4-Pages/_about.scss",
+        "../SASS/4-Pages/_contact.scss",
+        "../SASS/4-Pages/_home.scss",
+        "../SASS/5-Themes/_admin.scss",
+        "../SASS/5-Themes/_theme.scss",
+        "../SASS/6-Vendors/_bootstrap.scss",
+        "../SASS/6-Vendors/_jquery-ui.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
