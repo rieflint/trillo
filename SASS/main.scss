@@ -1,3 +1,27 @@
 @import "0-Tools/functions";
 @import "0-Tools/mixins";
-@import "0-Tools/variables"'
+@import "0-Tools/variables";
+
+@import "1-Base/reset";
+@import "1-Base/typography";
+
+@import "2-Modules/buttons";
+@import "2-Modules/carousel";
+@import "2-Modules/slider";
+
+@import "3-Layout/footer";
+@import "3-Layout/forms";
+@import "3-Layout/grid";
+@import "3-Layout/header";
+@import "3-Layout/navigation";
+@import "3-Layout/sidebar";
+
+@import "4-Pages/about";
+@import "4-Pages/contact";
+@import "4-Pages/home";
+
+@import "5-Themes/admin";
+@import "5-Themes/theme";
+
+@import "6-Vendors/bootstrap";
+@import "6-Vendors/jquery-ui";
